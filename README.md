@@ -10,3 +10,6 @@ $curl –L https://cpanmin.us | perl - --sudo App::cpanminus
 $cpanm –quiet –notest App::Sqitch  --sudo
 $sqitch *
 ```
+
+##### Sqitch Snowflake Tutorial
+[https://sqitch.org/docs/manual/sqitchtutorial-snowflake/#connection-configuration](https://sqitch.org/docs/manual/sqitchtutorial-snowflake/#connection-configuration) <br/>
