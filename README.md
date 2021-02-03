@@ -13,3 +13,7 @@ $sqitch *
 
 ##### Sqitch Snowflake Tutorial
 [https://sqitch.org/docs/manual/sqitchtutorial-snowflake/#connection-configuration](https://sqitch.org/docs/manual/sqitchtutorial-snowflake/#connection-configuration) <br/>
+
+
+##### Error DBD::ODBC
+[https://github.com/perl5-dbi/DBD-ODBC](https://github.com/perl5-dbi/DBD-ODBC) <br/>
